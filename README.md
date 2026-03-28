@@ -12,3 +12,7 @@ Git.
 - style.css
 
 - script.js
+
+## Aprendizados
+
+- Aprendi Git
